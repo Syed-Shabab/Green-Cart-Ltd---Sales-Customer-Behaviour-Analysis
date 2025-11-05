@@ -34,6 +34,12 @@ Kitchen: £33,934 (14%)
 Personal Care: £24,917 (10%)
 
 
+
+<img width="1014" height="569" alt="S2-1" src="https://github.com/user-attachments/assets/c954f224-ea40-4cf4-b22f-b01f81270763" />
+
+
+
+
 Finding 2: Gold Customers Drive Disproportionate Value
 
 Gold tier customers place 1,674 orders—2.5x more than Bronze and Silver combined—generating 30-35% of total revenue despite being the smallest segment. This indicates exceptional customer lifetime value in the premium tier.
@@ -204,9 +210,6 @@ Overall Delay Rate: 40%
 Top Category: Cleaning (39% revenue share)
 
 Top Customer Tier: Gold (30-35% revenue contribution)
-
-
-<img width="1014" height="569" alt="S2-1" src="https://github.com/user-attachments/assets/c954f224-ea40-4cf4-b22f-b01f81270763" />
 
 
 
